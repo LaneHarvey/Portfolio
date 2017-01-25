@@ -16,6 +16,16 @@ body {
 section {
   padding: 100px 0;
 }
+
+. lane-profile-img{
+  margin: auto;
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+}
+
+
+
 .bg-gray {
   background-color: #f5f5f5;
 }
